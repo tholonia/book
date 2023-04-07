@@ -1,0 +1,10 @@
+#!/bin/bash
+cd /home/jw/books/tholonia/chapters
+
+zip lastmd.zip *.md
+cp /home/jw/books/tholonia/chapters/INDEXED/*.md /home/jw/books/tholonia/chapters/
+
+cd /home/jw/books/tholonia/bin
+
+./publish.py ${1} && cp /home/jw/books/tholonia/Latest/THOLONIA_THE_BOOK.pdf  /home/jw/store/sites/tholonia/Documents/books/
+
