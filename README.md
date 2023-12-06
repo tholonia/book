@@ -1,4 +1,4 @@
-Version {!Fri 07 Apr 2023 12:53:02 PM -03 v7.3.4}
+Version {!dom 30 abr 2023 20:03:56 v7.3.6}
 
 Tholonia: The Existential Mechanics of Awareness
 Copyright © 2020 Duncan Stroud
@@ -241,3 +241,40 @@ The code does not run any conversions, but prints the command to terminal.
 
 
 
+# Speed of light loophole
+
+https://www.youtube.com/watch?v=ff0aofh6urU  (see 9:30 for forumas)
+
+see: SOL_loophole.ods
+
+
+
+3 points are required to measure teh SOL, source, reflector, dest, or t1 -> t2 ->  t3
+
+this makes 
+
+N=source t1
+
+D= reflector t2
+
+C=destination t3
+
+
+
+t2 = t1 + 0.5 * (t3-t1)
+
+D= N +  ((C-S)/2)
+
+
+
+t2=t1+e(t3-t1)
+
+where e = teh uncertazintly in teh one way s[peed of light and can range anywhgere between 0 and 1
+
+
+
+D=N+e(C-S)
+
+
+
+Einstein says e = 0.5

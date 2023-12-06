@@ -173,10 +173,6 @@ In any case, we end up with something like this:
 
 However, the broader perspective is recognizing the context of the A&I from which both of these expressions emerge transcends all gods and all politics, and from that perspective, a stable balance between the poles can emerge, in both beliefs and practice.
 
-
-
-~~We see these same tholonic intelligences in other belief systems as well, and sometimes they must compete and cooperate with each other.  An example of this is the cooperation and sharing and the conflict and battling between the Canaanite/Phoenician beliefs and the Abrahamic beliefs.~~  
-
 ## I Am
 
 This simplest of insights, “I am” vs. “I am not”, or “is” vs. “is not”, is at the foundation of everything man does, think, believes, and knows, so it is worth exploring this concept to understand it better.  If we go back 6,000 to the dawn of the modern human, we are going back to the beginning of Western Judeo-Christian concepts.  Immediately we are challenged with the obfuscation of language.  This is best represented in the seminal message God gave to Moses at the Burning Bush.

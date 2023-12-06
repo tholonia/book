@@ -173,6 +173,16 @@ Before we leave the subject of entropy, there is another concept to keep in mind
 
 [^408]: L.  Brillouin, “**Maxwell’s Demon Cannot Operate: Information and Entropy.  I**”, Journal of Applied Physics 22, 334-337 (1951) https://doi.org/10.1063/1.1699951
 
+## Three Spectrums of Energy
+
+Here is a good place to introduce a concept useful in understanding the tholonic model.  It's more of a hypothesis, really, and is similar to Sidis' idea that there is a part of reality where entropy might move in reverse.  The tholonic model agrees with this idea, but it is the "where" in reality that is in question.
+
+We understand electromagnetic energy as the spectrum of non-material energy expressed in waves, frequencies, photons, etc.  On the material scale, the energy spectrum is expressed via matter, that is, electrons, protons, and neutrons, which create atoms.  This material spectrum is understood as the periodic table of elements.  It is a much shorter spectrum and a much "slower" or denser spectrum.  We say this because matter is energy divided by the speed of light squared (m=E/c<sup>2</sup>).  c<sup>2</sup> is a very, very large value as it is the fastest speed possible in the material world multiplied by itself (i.e., 8,987,551,790,000,000).
+
+Thermodynamic entropy is a material phenomenon as it only exists where matter exists.   It is also generally stated that no entropy is produced during the emitting of radiation; hence, there is no entropy in the electromagnetic.  So, the physical world, which is the densest form of energy,  increases in entropy, and the world of light, which is the purest form of energy (that science knows of), has no entropy.  Is there yet another form of energy even purer than light in a world where entropy decreases?  The tholonic model claims there is and refers to it as *tholonic energy*, which is far broader than the electromagnetic spectrum and can be understood as *coherent thought.* This energy does exist in another "part" of the Universe, but on another level of reality, not a location.  This is the world that Plato referred to in his *Theory of Ideas*, where ideas have a life of their own, even if they do not have any instance in the material world.  In this world, ideas are objective realities, not subjective, and in the world of thoughts, concepts, and archetypes, entropy decreases.  In other words, ideas, if they are sustainable and survive, naturally evolve and grow.  Coherent thought, or the ability to form ideas,  is an instance of this energy as expressed through the context of consciousness, making consciousness one source of energy.  While this energy is above and beyond our classical understanding of energy, it is just as integrated into our reality as heat and electricity, and reality itself is just as dependent on it to exist.
+
+
+
 #### **Key 26:** Order and pattern requires energy.
 
 The inter-connectivity of things, whether directly or via radiations such as heat and light, allows for the movement of energy, and this movement creates order.  Therefore, the idea that everything is connected is not simply an abstract philosophical concept but a necessity for order and therefore, life.

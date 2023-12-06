@@ -4,7 +4,7 @@
 
 Given the arguments made so far, it should not be surprising that certain patterns exist, albeit obscured, within seemingly random data, such as the stock market.
 
-One test that anyone can test for themselves shows such a hidden pattern.  In the example, we are 14 months of data (632,869 values) from the 1-minute chart of Bitcoin/ USD-Tether (BTC/USDT) from the Binance exchange from Jan 1, 2021, to Feb 14, 2022.
+One test that anyone can test for themselves shows such a hidden pattern.  In the example, we have 14 months of data (632,869 values) from the 1-minute chart of Bitcoin/ USD-Tether (BTC/USDT) from the Binance exchange from Jan 1, 2021, to Feb 14, 2022.
 
 Start at the beginning of the data and take a series of values, such as 16, 24, 32, etc., consecutive values.  In this example, we will use 16  consecutive values.  This means we have a 632,853 (or 632,869 - 16) sets of 16 values that looks something like:
 
@@ -81,7 +81,7 @@ If we plot ***s1*** against ***s2*** we see another familiar form:
 
 <center><img src='../Images/sd-plot2.png' style='width:100%'/></center>
 
-If we look at the plots of ***sv*** against both ***s1*** and ***s2***, we see the following; two opposing ‘waves’, essentially a double helix:
+If we look at the plots of ***sv*** against both ***s1*** and ***s2***, we see 2 opposing ‘waves’, essentially a double helix:
 
 <center><img src='../Images/sd-plot3.png' style='width:100%'/></center>
 
@@ -145,7 +145,7 @@ This second test suggested that: Any sequential 16 prices (in real time for BTC/
 
 This supports the first example that also states that any delta value that is above 0 (meaning the 1<sup>st</sup> part is less than the 2<sup>nd</sup> part,  i.e., there are more DOWN values that UP values in the first part) will yield profit.
 
-The Tholonic idea here is that even within random or unpredictable data, the laws of cause and effect create patterns that create balance.  When there is an imbalance on one side, it is predictable that this will soon be followed by an equal and opposite imbalance.   While it is impossible to predict where the balance point will exist in the future.  Given that there are unpredictable opposing forces constantly exerting pressure, what can be predicted is the potential opposing force to the current dominant force.
+The Tholonic idea here is that even within random or unpredictable data, the laws of cause and effect create patterns that create balance.  When there is an imbalance on one side, it is predictable that this will soon be followed by an equal and opposite imbalance.   While it is impossible to predict where the balance point will exist in the future, given that there are unpredictable opposing forces constantly exerting pressure, what can be predicted is the potential opposing force to the current dominant force.
 
 **However…**
 

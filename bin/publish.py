@@ -1,4 +1,4 @@
-#!/usr/sbin/python
+#!/usr/bin/env python
 
 '''
 the CSS files to edit are
@@ -186,7 +186,7 @@ def md2html(chapter):
     cx += f" --pdf-engine=xelatex"
     cx += f" --include-in-header=file:///home/jw/books/tholonia/Styles/common_book{STATE}_header.css"
     cx += f" --from=markdown+tex_math_dollars+tex_math_single_backslash"
-    cx += f" --template=tholonia.html5"  # /usr/share/pandoc/data/templates/
+    cx += f" --template=/usr/share/pandoc/data/templates/tholonia.html5"  # /usr/share/pandoc/data/templates/
     cx += f" --to=html5"
     cx += f" --metadata-file={H}/inc/metadata.yaml"
     cx += f" --standalone"

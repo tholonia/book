@@ -229,9 +229,31 @@ How does the thologram tell us something about quarks and forces?  Perhaps.  The
 
 Again, this is a good place to remind the reader that the tholonic model is not meant to be a model based on physics or even mechanics.  It is a model that shows the patterns on which physics, mechanics, and everything else are based. 
 
+### The 4 Fundamental Forces of Reality
+
+We mentioned above that the first instance of matter would be tetrahedral, at least conceptually.  The previous example of the quark model as two tetrahedrons is just that, and quarks form the hadrons from which all matter is composed, this claim holds true.  We also stated that form, being an instantiation of the laws of form, would follow that model, meaning we should expect to see tetrahedral conceptual structures as a primary building block of reality.  We can go all the way down to the four fundamental forces that control the 6 quarks and 6 leptons (and their 12 anti-particle pairs)    that create every bit of matter and every phenomena in existence and see its tetrahedral structure, and even some other relationship between the forces that could possibly be tested.  For example, if we apply the four forces in the same order as they came into creation (gravity, EM, strong force, weak force)  and in the same order that they would appear in a tetrahedron, and we, we get the images below.
+
+<center><img src='../Images/4forces-tetra_v4.png' style='width:100%'/></center>
+
+What is most interesting with this order is how we see the *N-source* and the *N-state* (blue dot and child blue/yellow dot), are represents by the two most dominant forces of the universal scale (*gravity*) and the atomic scale (*strong*) force  (yes, EM has much more force then gravity, but EM tends to balance itself out in mass, thereby neutralizing itself, while gravity has no negative force, making gravity far more influential than EM on the universal scale).  The blue-green vector is that of *Definition and Limitation*, and here we see the very definition of "Definition and Limitation"... a math formula that describes both ends of the vector, as both *gravity* and the *EM* force can both be described with the same formula pattern of $A=B\frac{Cc}{D^2}$; for gravitational force it's  $F=G\frac{Mm}{r^2}$ , and for EM force it's $F=k\frac{Qq}{r^2}$ .  This is yet another example of self-similar patterns applied to different contexts.  We also see how the *weak* and the *strong* forces are perpendicular to one another, just as the *contracting* and *expanding* forces.  In the same fashion, we see the spectrum across which new creations come in to being, which is along the *expansion* dimension, is also perpendicular to the constant continuity and contraction of the *N-sources/states*, which has its origin in the first creation, and which is recreated in every generation that follows.  This particular model also suggests that gravity is the source of creation, which is consistent with the idea that gravity is a material instance of consciousness, which is an instance of awareness, which is, according to the tholonic model, the source of creation.  In this case, gravity is the first force because it was the first to come into existence.
+
+However, if we change the order based on some other reasoning, we get a very different set of relationships.  Which one is the most "accurate" is anyone's guess at this point, but I suspect they are all "accurate" from one or another perspective.  The image below starts with an *N-source* of gravity, but considers the N-state as the "child" of the N-source, and given that the EM force has the same formula pattern as gravity, EM is placed in position 4, which them results in the *strong* force and the *weak* force.  This is contrary to what we know to be the actual order, but this pattern is still reasonable  if we don't constrain ourself to 3D spacetime linear causality (i.e., every effect must have a preceding cause) which we can easily do in anything more that 3 dimensions.
+
+<center><img src='../Images/4forces-tetra_v3.png' style='width:100%'/></center>
+
+There is another, if not strictly scientific, pattern here, and that is how these four forces can be defined by 3 pairs of attributes; scope (atomic/universal), actions (contraction/expansion), and force (weak/strong).  Each pair is also quite clearly an instance of the concepts of yin and yang.  If we were to look at this same diagram (***Fig. 4f-3***) from this perspective of 3 pairs of yin/yang, it woudl look like this:
+
+<center><img src='../Images/4forces-tetra_v3yy.png' style='width:100%'/></center>
+
+With 3 pairs of attributes, we can also easily map these 4 fundamental forces of nature to a 3D graph as well as to the 3 fundamental attributes forces of electricity, Newton's 2nd law, and, as shown previously, relativity, quantum mechanics, fluid dynamics, and much more, as well be shown.  Here, orange represents *yin* and violet represents *yang*.  The colors of the (left) boxes are determined by mixing their portions of *yin* and *yang* colors.  For example, *EM force* is a point at the end of 3 *yang* connecting lines, so it is solid violet, while all the other points are a combination or 2 orange lines and 1 violet line, resulting in a dark-peachy color.
+
+<center><img src='../Images/force-scope-action.png' style='width:100%'/></center>
+
+This point of this is to show how the tetrahedral pattern appears at every level of creations.  I feel I must stress this as I can already hear physicists and engineers balking at these correlations.  That being said, I will go further and say that these 3 axis of action, scope, and force correlate extremely will with the tholonic concepts of *Negotiation/balance*, *Definition/limitation*, and *Contribution/Integration*.
+
 ### Molecules
 
-We mentioned above that the first instance of matter would be tetrahedral, at least conceptually.  We also stated that form, being an instantiation of the laws of form, would follow that model, meaning we should expect to see tetrahedral structures as a primary building block of reality.  We just saw how this might be the case in the quantum world, but what about the world of elements and molecules?
+What about the world of elements and molecules?
 
 The 1<sup>st</sup> instance of matter in the Newtonian sense (vs. the quantum sense) are the elements.  While all elements have some type of trigram structure, no element has a tetrahedral structure when it is isolated.  The bonds *between* the atomic elements create the tetrahedral structure.  We can see how elements are acting like instances of a 2D trigram, even though they are expressions of a 3D tholon, which suggests that elements are the first material instances of a tholon or are acting like a bridge between a tholon map (2D), and a tholon (3D).  In the tholon model, the individual elements exist at the 1<sup>st</sup> level of the thologram, which are the 1<sup>st</sup> tholons created by the folding of the 2D “map” and are shown as the numerous and small tetrahedrons upon which ever-larger tetrahedral structures emerge.  That means we will not see actual tetrahedrons on this level, but we will see the same tholonic properties, such as form seeking the most stable state.  We don’t see tetrahedral forms in 3D structures until the 1<sup>st</sup> iteration.  A single *H<sub>2</sub>O* molecule is not a tetrahedron in form because it only has 3 atoms, so it is a trigram.  Water, however, is tetrahedral.
 
@@ -259,6 +281,10 @@ This is just a hypothetical demonstration, as there may be a much better tholoni
 Can we see this similar relationship with other compounds?  Given that the basic archetypal shapes of molecules (shown above) can be represented within the thologram, perhaps this model can be applied to all compounds.  We claim this might be possible, as there are almost infinite configurations in the thologram.  Instances of fundamental configurations, such as those that appear in the earlier stages of iterations and generations, like the Fibonacci sequence and the hexagram, would represent extremely stable patterns.  Therefore we expect to see them play a fundamental part in our reality (like water and methane) and could be easily discovered.
 
 The Fibonacci formula is especially tholonic.  For details, see “*Fibonacci Tholon*” in [Appendix C, “*Tholonic Math*”](#Appendix-C:-Tholonic-Math).
+
+
+
+
 
 ### Batteries
 
